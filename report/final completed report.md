@@ -159,8 +159,10 @@ Yes, the Zea mays chloroplast genome has the common LSC–IR–SSC–IR arrangem
 Small Single-Copy (SSC) region, and two Inverted Repeat (IR) regions.
 
 **LSC:** 82,355 bp
+
 **SSC:** 12,536 bp
-**IR:** 22,748 bp each
+
+**IR:** 22,748 bp
 
 The two IR regions are repeated parts of the genome and separate the LSC and SSC regions.
 
