@@ -95,6 +95,15 @@ Important observations include the presence of intron-containing genes such as r
 
 ## Data sources and references.
 
+NCBI Nucleotide: https://ncbi.nlm.nih.gov/nuccore/NC_001666.2?report=fasta
+
+NCBI GenBank: https://ncbi.nlm.nih.gov/nuccore/NC_001666.2
+
+usegalaxy.org: https://galaxy-main.usegalaxy.org/u/celinebahian/h/plastid-zea-bahian
+
+Galaxy Training Network: https://galaxy-main.usegalaxy.org/?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffasta_stats%2Ffasta-stats%2F2.0&version=latest
+
+GitHub: https://github.com/celinebahian/cmb-plastid-genome--Zea---Bahian-
 
 
 ## Reproducibility
