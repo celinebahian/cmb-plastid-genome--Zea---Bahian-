@@ -296,4 +296,4 @@ usegalaxy.org: https://galaxy-main.usegalaxy.org/u/celinebahian/h/plastid-zea-ba
 
 Galaxy Training Network: https://galaxy-main.usegalaxy.org/?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffasta_stats%2Ffasta-stats%2F2.0&version=latest
 
-GitHub: 
+GitHub: https://github.com/celinebahian/cmb-plastid-genome--Zea---Bahian-
