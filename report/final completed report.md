@@ -319,3 +319,5 @@ usegalaxy.org: https://galaxy-main.usegalaxy.org/u/celinebahian/h/plastid-zea-ba
 Galaxy Training Network: https://galaxy-main.usegalaxy.org/?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffasta_stats%2Ffasta-stats%2F2.0&version=latest
 
 GitHub: https://github.com/celinebahian/cmb-plastid-genome--Zea---Bahian-
+
+Maier, R. M., Neckermann, K., Igloi, G. L., & Kössel, H. (1995). Complete sequence of the maize chloroplast genome: Gene content, hotspots of divergence and fine tuning of genetic information by transcript editing. *Journal of Molecular Biology, 251*(5), 614–628. https://doi.org/10.1006/jmbi.1995.0460
