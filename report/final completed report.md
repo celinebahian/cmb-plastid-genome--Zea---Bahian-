@@ -224,35 +224,55 @@ The genome has the typical LSC–IR–SSC–IR structure, with two IR regions co
 | **Evolution** | Can undergo gene loss, gene transfer, and rearrangements. | Can also undergo gene loss, gene transfer, and structural changes. |
 
 **Similarities**
+
 1.Both are organelle genomes.
+
 2.Both contain their own DNA.
+
 3.Both can occur in multiple copies per cell.
+
 4.Both contain genes needed for organelle functions.
+
 5.Both evolved from bacterial ancestors.
 
 **Differences**
+
 1.Plastid genomes are found in plastids, while mitochondrial genomes are found in mitochondria.
+
 2.Plastids are mainly associated with photosynthesis, while mitochondria are mainly associated with cellular respiration.
+
 3.Plastid genomes contain genes related to photosynthesis, while mitochondrial genomes contain genes mainly related to respiration.
+
 4.Plant plastid genomes commonly have LSC, SSC, and IR regions, while mitochondrial genomes have more variable organizations.
+
 5.Their patterns of inheritance and evolutionary changes can differ.
 
 **10. Explain the practical value of plastid genomes in research. List as many advantages as youcancompared with the nuclear genome, including nuclear sex chromosomes where applicable, andalsoexplain important limitations. Give one research question for which plastid data would be useful andone for which nuclear genomic data would be more appropriate.**
 
-Plastid genomes are useful in many areas of plant research. They are relatively small compared with nuclear genomes and contain many genes 
-and regions that can be used for studying and comparing plants.
+Plastid genomes are useful in many areas of plant research. They are relatively small compared with nuclear genomes and contain many genes and regions that can be used for studying and comparing plants.
 
 **Advantages of plastid genomes**
+
 Useful for plant species identification
+
 Useful for DNA barcoding
+
 Useful for phylogenetic analysis
+
 Useful for studying evolutionary relationships
+
 Useful for comparing closely related plant species
+
 Useful for studying plant diversity
+
 Useful for studying population history
+
 Easier to analyze than the much larger nuclear genome
+
 Contains conserved genes that can be compared between species
+
 Useful for studying the evolutionary history of plastids
+
 Useful in plant breeding and genetic research
 
 **Limitations**
@@ -288,7 +308,7 @@ Nuclear genomic data would be more appropriate because complex traits such as dr
 
 # References
 
-NCBI Nucleotide: https://ncbi.nlm.nih.gov/nuccore/NC_001666.2?report=fasta
+NCBI Nucleotide: [https://ncbi.nlm.nih.gov/nuccore/NC_001666.2?report=fasta](https://ncbi.nlm.nih.gov/nuccore/?term=zea+plastid+complete+genome)
 
 NCBI GenBank: https://ncbi.nlm.nih.gov/nuccore/NC_001666.2
 
