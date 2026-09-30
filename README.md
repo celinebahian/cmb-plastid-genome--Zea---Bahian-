@@ -34,9 +34,8 @@ The selected plastid genome was obtained from the **NCBI RefSeq/Nucleotide datab
 | **Topology** | Circular |
 | **Sequence status** | Complete genome |
 | **Source link** | [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/NC_001666.2) |
-| **Date retrieved** | September 30, 2026 |
 
-The NCBI record is named **“Zea mays chloroplast, complete genome”** and is listed as an NCBI Reference Sequence. The complete genome has a length of 140,384 bp. :contentReference[oaicite:1]{index=1}
+The NCBI record is named **“Zea mays chloroplast, complete genome”** and is listed as an NCBI Reference Sequence. The complete genome has a length of 140,384 bp.
 
 ---
 ## Date the genome was retrieved.
@@ -52,17 +51,16 @@ The genome has the common **LSC–IR–SSC–IR** organization:
 - **SSC (Small Single-Copy):** 12,536 bp
 - **IR (Inverted Repeat):** 22,748 bp each
 
-The Galaxy analysis showed that the genome contains **1 sequence record** and has a **GC content of 38.46%**. :contentReference[oaicite:2]{index=2}
-
+The Galaxy analysis showed that the genome contains **1 sequence record** and has a **GC content of 38.46%**. 
 ---
 
 ## A short description of how the genome was downloaded and uploaded to Galaxy.
 
-The complete *Zea mays* chloroplast genome was obtained from the NCBI Nucleotide/RefSeq database using accession **NC_001666.2**.
+The NCBI record is “Zea mays chloroplast, complete genome” with accession NC_001666.2. It is a complete chloroplast genome record with a length of 140,384 bp.
 
 The genome sequence was downloaded in **FASTA format** and uploaded to **UseGalaxy.org**. The FASTA file was then analyzed using the **Fasta Statistics** tool to obtain the genome length, number of sequence records, nucleotide counts, and GC content.
 
-The annotated GenBank/RefSeq record was used to examine genes, introns, pseudogenes, and other genomic features. :contentReference[oaicite:3]{index=3}
+The annotated GenBank/RefSeq record was used to examine genes, introns, pseudogenes, and other genomic features. 
 
 ---
 
@@ -83,7 +81,7 @@ The annotated GenBank/RefSeq record was used to examine genes, introns, pseudoge
 | **GC content** | 38.46% |
 | **Complete plastome represented by one sequence** | Yes |
 
-The Galaxy result confirmed that the FASTA file contained one sequence representing the complete *Zea mays* chloroplast genome. :contentReference[oaicite:4]{index=4}
+The Galaxy result confirmed that the FASTA file contained one sequence representing the complete *Zea mays* chloroplast genome. 
 
 ---
 
