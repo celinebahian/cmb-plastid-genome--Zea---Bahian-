@@ -49,7 +49,7 @@ and FASTA files.
 
 **Figure 2.** FASTA sequence record of the selected Zea mays chloroplast complete genome (NC_001666.2) retrieved from NCBI, showing the nucleotide sequence used as the genome sequence source for the study.
 
-5. Files to Obtain 
+# 5. Files to Obtain
 
 | File | Format | Purpose | File/Accession |
 |---|---|---|---|
@@ -57,7 +57,7 @@ and FASTA files.
 | Annotated genome | GenBank / RefSeq | Identify genes, coordinates, introns, pseudogenes, and other features | *Zea mays* chloroplast genome, **NC_001666.2** |
 | Source information | NCBI record link / accession | Document the origin of the genome used | **NC_001666.2** — https://www.ncbi.nlm.nih.gov/nuccore/NC_001666.2 |
 
-6. Galaxy Workflow 
+# 6. Galaxy Workflow 
 
 | Statistic | Galaxy Result |
 |---|---:|
@@ -71,7 +71,7 @@ and FASTA files.
 **Figure 3.** Galaxy workflow for analyzing the Zea mays chloroplast genome using FASTA Statistics. The uploaded FASTA file (NC_001666.2) was 
 processed to obtain sequence statistics, including genome length, nucleotide counts, and GC content.
 
-7. Plastid Genome Terms to Understand 
+# 7. Plastid Genome Terms to Understand 
 
 | Term | Meaning |
 |---|---|
@@ -88,7 +88,7 @@ processed to obtain sequence statistics, including genome length, nucleotide cou
 | **Accession** | A unique identification number given to a sequence record in a database. |
 | **Annotation** | Information added to a genome that identifies genes and other important features. |
 
-8. Required Plastid Genome Characterization 
+# 8. Required Plastid Genome Characterization 
 
 | Characteristic | *Zea mays* chloroplast genome |
 |---|---|
