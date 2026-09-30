@@ -45,7 +45,7 @@ The NCBI record is named **“Zea mays chloroplast, complete genome”** and is 
 
 The selected genome is the complete chloroplast genome of *Zea mays*. It is **140,384 bp long** and has a **circular** topology.
 
-The genome has the common **LSC–IR–SSC–IR** organization:
+The Zea mays chloroplast genome has the typical LSC–IR–SSC–IR organization. The original complete-genome publication by Maier et al. (1995) reported an LSC of 82,355 bp, an SSC of 12,536 bp, and two IRs of 22,748 bp each.
 
 - **LSC (Large Single-Copy):** 82,355 bp
 - **SSC (Small Single-Copy):** 12,536 bp
@@ -103,6 +103,7 @@ Galaxy Training Network: https://galaxy-main.usegalaxy.org/?tool_id=toolshed.g2.
 
 GitHub: https://github.com/celinebahian/cmb-plastid-genome--Zea---Bahian-
 
+Maier, R. M., Neckermann, K., Igloi, G. L., & Kössel, H. (1995). Complete sequence of the maize chloroplast genome: Gene content, hotspots of divergence and fine tuning of genetic information by transcript editing. *Journal of Molecular Biology, 251*(5), 614–628. https://doi.org/10.1006/jmbi.1995.0460
 
 ## Reproducibility
 
