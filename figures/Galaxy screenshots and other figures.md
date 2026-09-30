@@ -1,10 +1,10 @@
 # Galaxy and NCBI screenshots
 
-<img width="1361" height="685" alt="image" src="https://github.com/user-attachments/assets/e8940208-ebf0-4f7a-8d39-d3f36e7d6277" />
+<img width="247" height="79" alt="image" src="https://github.com/user-attachments/assets/e84e7737-5879-4e5f-9aeb-63d2ee6e3dda" />
 
 **Figure 1.** FASTA sequence record of the selected Zea mays chloroplast complete genome (NC_001666.2) retrieved from NCBI, showing the nucleotide sequence used as the genome sequence source for the study.
 
-<img width="247" height="79" alt="image" src="https://github.com/user-attachments/assets/e84e7737-5879-4e5f-9aeb-63d2ee6e3dda" />
+<img width="1361" height="685" alt="image" src="https://github.com/user-attachments/assets/e8940208-ebf0-4f7a-8d39-d3f36e7d6277" />
 
 **Figure 2.** NCBI record for the Zea mays chloroplast complete genome (NC_001666.2), showing the 140,384 bp genome length and available 
 GenBank and FASTA files.
