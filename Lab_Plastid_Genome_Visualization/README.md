@@ -33,3 +33,5 @@ Standard map mode, circular genome map, Plastid sequence source, automatic inver
 The Zea mays chloroplast genome is a circular DNA molecule with a length of 140,384 bp. It has four main regions: the large single-copy (LSC) region, small single-copy (SSC) region, and two inverted repeat regions (IRa and IRb). The outer part of the map shows different genes involved in processes such as photosynthesis, ATP production, and protein synthesis. The map also shows the direction of transcription and the GC content across the genome.
 
 # A link to or location of your Lab_plastid_genome_answers.md file
+
+https://github.com/celinebahian/cmb-plastid-genome--Zea---Bahian-/tree/main/Lab_Plastid_Genome_Visualization
