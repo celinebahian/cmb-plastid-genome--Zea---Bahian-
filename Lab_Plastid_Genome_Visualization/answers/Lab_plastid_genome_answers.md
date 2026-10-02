@@ -27,7 +27,7 @@ Three examples of genes located in the LSC region are:
 
 One example of a gene located in the SSC region is *ndhF*. It is associated with the NADH dehydrogenase complex and is involved in photosynthetic electron transport.
 
-## 6. ive at least one example of a gene that occurs within an inverted repeat region. Is the geneshownmore than once because of the duplicated IR regions?
+## 6. Give at least one example of a gene that occurs within an inverted repeat region. Is the geneshownmore than once because of the duplicated IR regions?
 
 One example of a gene located in an inverted repeat region is *rrn16*. Because the IR regions are duplicated, genes located within these regions can also occur twice in the chloroplast genome. Therefore, the gene can appear in both IRa and IRb.
 
