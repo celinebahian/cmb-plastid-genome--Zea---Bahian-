@@ -22,9 +22,9 @@ Standard map mode, circular genome map, Plastid sequence source, automatic inver
 
 # The plastid genome map displayed in the README
 
-![Uploading image.png…]()
+<img width="1250" height="1250" alt="828675791_1028332940234545_1399364653055163595_n" src="https://github.com/user-attachments/assets/d97ee2ac-4595-4381-ab9a-c3226e6b6058" />
 
-![Uploading image.png…]()
+<img width="683" height="700" alt="829543455_1739924713972477_1496760787798987699_n" src="https://github.com/user-attachments/assets/8dd2dc46-c0c2-40b0-9005-8cef6c7b5354" />
 
 **Figure 1.** Circular plastid genome map of Zea mays generated using OGDRAW, showing gene organization, transcription direction, inverted repeat regions, and GC content.
 
