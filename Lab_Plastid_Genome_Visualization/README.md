@@ -1,4 +1,4 @@
-## Visualize Plastid Genome Structure
+# Visualize Plastid Genome Structure
 
 **Name:** Bahian, Celine R.
 
